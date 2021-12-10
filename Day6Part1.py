@@ -16,7 +16,4 @@ for i in range(256):
             list1[list1.index(j)] = j-1
     for k in range(appended):
         list1.append(8)
-
-#print(list1)
-
 print(len(list1))
